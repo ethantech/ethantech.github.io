@@ -4,7 +4,7 @@
   <subtitle><![CDATA[士不可以不弘毅，任重而道远。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://ethantech.cn/"/>
-  <updated>2015-12-18T13:33:57.791Z</updated>
+  <updated>2015-12-19T09:12:07.526Z</updated>
   <id>http://ethantech.cn/</id>
   
   <author>
@@ -19,13 +19,14 @@
     <link href="http://ethantech.cn/2015/12/18/first/"/>
     <id>http://ethantech.cn/2015/12/18/first/</id>
     <published>2015-12-18T13:32:15.000Z</published>
-    <updated>2015-12-18T13:33:57.791Z</updated>
-    <content type="html"></content>
+    <updated>2015-12-19T09:12:07.526Z</updated>
+    <content type="html"><![CDATA[<p>从今天开始，就开始用这个博客了，这几天会把CSDN上的几篇文章搬过来，Markdown还用不熟，所以目前只是些简单的文章，以后可能会增加一些内容。<br>这个主页是个技术博客，大部分是技术分享，还有一些事生活感悟，包括美食，旅行，读书，电影等等。不涉政治。<br>侧边栏有一些友情链接，都是我的朋友在维护的网站或者公众号，感兴趣的可以看一下，好了，我要开始把博客搬过来了</p>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<p>从今天开始，就开始用这个博客了，这几天会把CSDN上的几篇文章搬过来，Markdown还用不熟，所以目前只是些简单的文章，以后可能会增加一些内容。<br>这个主页是个技术博客，大部分是技术分享，还有一些事生活感悟，包括美食，旅行，读书，电影等等。不涉政治。<br>侧边栏有一]]>
     </summary>
     
-      <category term="博客，文章" scheme="http://ethantech.cn/tags/%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%96%87%E7%AB%A0/"/>
+      <category term="博客" scheme="http://ethantech.cn/tags/%E5%8D%9A%E5%AE%A2/"/>
     
       <category term="blog" scheme="http://ethantech.cn/categories/blog/"/>
     
