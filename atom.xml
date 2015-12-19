@@ -4,7 +4,7 @@
   <subtitle><![CDATA[士不可以不弘毅，任重而道远。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://ethantech.cn/"/>
-  <updated>2015-12-19T13:02:58.706Z</updated>
+  <updated>2015-12-19T13:04:48.616Z</updated>
   <id>http://ethantech.cn/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://ethantech.cn/2015/12/19/1/"/>
     <id>http://ethantech.cn/2015/12/19/1/</id>
     <published>2015-12-19T09:17:58.000Z</published>
-    <updated>2015-12-19T13:02:58.706Z</updated>
+    <updated>2015-12-19T13:04:48.616Z</updated>
     <content type="html"><![CDATA[<p>#一、安装在文件中打开终端的右键菜单</p>
 <pre><code>#apt-get install nautilus-open-terminal
 </code></pre><p>注销一下就可以用了</p>
@@ -27,7 +27,7 @@
 <pre><code>#passwd root
 </code></pre><p>编辑配置文件 </p>
 <pre><code>#gedit /etc/lightdm/lightdm.conf
-</code></pre><p>增加这行代码<br>    greeter-show-manual-login=true<br>重启，就可以在登陆界面输入root账号密码登陆了</p>
+</code></pre><p>增加这行代码<br>        greeter-show-manual-login=true<br>重启，就可以在登陆界面输入root账号密码登陆了</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p>#一、安装在文件中打开终端的右键菜单</p>
