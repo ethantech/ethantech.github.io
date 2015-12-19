@@ -53,16 +53,37 @@
 
 
 
-<meta name="description" content="#一、安装在文件夹中打开终端的右键菜单codeblock %&amp;#125; #apt-get install nautilus-open-terminal &amp;#123;% endcodeblock %&amp;#125; ```1&amp;#27880;&amp;#38144;&amp;#19968;&amp;#19979;&amp;#23601;&amp;#21487;&amp;#20197;&amp;#29992;&amp;#20102;&amp;#10;#&amp;#20108;&amp;#12">
+<meta name="description" content="#一、安装在文件中打开终端的右键菜单
+#apt-get install nautilus-open-terminal
+注销一下就可以用了
+#二、开启root账户设置root账号密码  
+#passwd root
+编辑配置文件 
+#gedit /etc/lightdm/lightdm.conf
+增加这行代码    greeter-show-manual-login=true重启，就可以在登陆界面输入">
 <meta property="og:type" content="article">
 <meta property="og:title" content="ubuntu安装完成后需要做的几件事">
 <meta property="og:url" content="http://ethantech.cn/2015/12/19/1/index.html">
 <meta property="og:site_name" content="EthanTech">
-<meta property="og:description" content="#一、安装在文件夹中打开终端的右键菜单codeblock %&amp;#125; #apt-get install nautilus-open-terminal &amp;#123;% endcodeblock %&amp;#125; ```1&amp;#27880;&amp;#38144;&amp;#19968;&amp;#19979;&amp;#23601;&amp;#21487;&amp;#20197;&amp;#29992;&amp;#20102;&amp;#10;#&amp;#20108;&amp;#12">
-<meta property="og:updated_time" content="2015-12-19T09:24:59.529Z">
+<meta property="og:description" content="#一、安装在文件中打开终端的右键菜单
+#apt-get install nautilus-open-terminal
+注销一下就可以用了
+#二、开启root账户设置root账号密码  
+#passwd root
+编辑配置文件 
+#gedit /etc/lightdm/lightdm.conf
+增加这行代码    greeter-show-manual-login=true重启，就可以在登陆界面输入">
+<meta property="og:updated_time" content="2015-12-19T09:28:35.655Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="ubuntu安装完成后需要做的几件事">
-<meta name="twitter:description" content="#一、安装在文件夹中打开终端的右键菜单codeblock %&amp;#125; #apt-get install nautilus-open-terminal &amp;#123;% endcodeblock %&amp;#125; ```1&amp;#27880;&amp;#38144;&amp;#19968;&amp;#19979;&amp;#23601;&amp;#21487;&amp;#20197;&amp;#29992;&amp;#20102;&amp;#10;#&amp;#20108;&amp;#12">
+<meta name="twitter:description" content="#一、安装在文件中打开终端的右键菜单
+#apt-get install nautilus-open-terminal
+注销一下就可以用了
+#二、开启root账户设置root账号密码  
+#passwd root
+编辑配置文件 
+#gedit /etc/lightdm/lightdm.conf
+增加这行代码    greeter-show-manual-login=true重启，就可以在登陆界面输入">
 
 
 
@@ -272,9 +293,14 @@
       
 
       
-        <span itemprop="articleBody"><p>#一、安装在文件夹中打开终端的右键菜单<br><figure class="highlight"><figcaption><span>codeblock %&#125; #apt-get install nautilus-open-terminal &#123;% endcodeblock %&#125; ```</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#27880;&#38144;&#19968;&#19979;&#23601;&#21487;&#20197;&#29992;&#20102;&#10;#&#20108;&#12289;&#24320;&#21551;root&#36134;&#25143;&#10;&#35774;&#32622;root&#36134;&#21495;&#23494;&#30721;&#10;``` &#123;% codeblock %&#125; #passwd root &#123;% endcodeblock %&#125;</span><br></pre></td></tr></table></figure></p>
-<p>编辑配置文件<br> <figure class="highlight"><figcaption><span>codeblock %&#125; #gedit</span><a href="/etc/lightdm/lightdm.conf">&#123;% endcodeblock %&#125; ```</a></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&#22686;&#21152;&#36825;&#34892;&#20195;&#30721; &#10;``` &#123;% codeblock %&#125; greeter-show-manual-login=true &#123;% endcodeblock %&#125;</span><br></pre></td></tr></table></figure></p>
-<p>重启，就可以在登陆界面输入root账号密码登陆了</p>
+        <span itemprop="articleBody"><p>#一、安装在文件中打开终端的右键菜单</p>
+<pre><code>#apt-get install nautilus-open-terminal
+</code></pre><p>注销一下就可以用了</p>
+<p>#二、开启root账户<br>设置root账号密码  </p>
+<pre><code>#passwd root
+</code></pre><p>编辑配置文件 </p>
+<pre><code>#gedit /etc/lightdm/lightdm.conf
+</code></pre><p>增加这行代码<br>    greeter-show-manual-login=true<br>重启，就可以在登陆界面输入root账号密码登陆了</p>
 </span>
       
     </div>
