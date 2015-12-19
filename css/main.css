@@ -725,7 +725,7 @@ body {
 .site-subtitle {
   margin-top: 10px;
   font-size: 13px;
-  color: #999;
+  color: #555;
 }
 .use-motion .brand {
   opacity: 0;
@@ -902,6 +902,11 @@ body {
   font-size: 14px;
   color: #555;
 }
+.site-subtitle {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #555;
+}
 .site-state {
   overflow: hidden;
   line-height: 1.4;
@@ -965,7 +970,7 @@ body {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #948cff;
+  background: #ff945b;
 }
 .sidebar-nav {
   margin: 0 0 20px;
