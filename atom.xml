@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Ethan技术博客]]></title>
+  <subtitle><![CDATA[士不可以不弘毅，任重而道远。]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://ethantech.cn/"/>
+  <updated>2015-12-18T13:33:57.791Z</updated>
+  <id>http://ethantech.cn/</id>
+  
+  <author>
+    <name><![CDATA[Ethan]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[博客序]]></title>
+    <link href="http://ethantech.cn/2015/12/18/first/"/>
+    <id>http://ethantech.cn/2015/12/18/first/</id>
+    <published>2015-12-18T13:32:15.000Z</published>
+    <updated>2015-12-18T13:33:57.791Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="博客，文章" scheme="http://ethantech.cn/tags/%E5%8D%9A%E5%AE%A2%EF%BC%8C%E6%96%87%E7%AB%A0/"/>
+    
+      <category term="blog" scheme="http://ethantech.cn/categories/blog/"/>
+    
+  </entry>
+  
+</feed>
