@@ -4,7 +4,7 @@
   <subtitle><![CDATA[士不可以不弘毅，任重而道远。]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://ethantech.cn/"/>
-  <updated>2015-12-19T09:28:35.655Z</updated>
+  <updated>2015-12-19T09:29:21.624Z</updated>
   <id>http://ethantech.cn/</id>
   
   <author>
@@ -19,7 +19,7 @@
     <link href="http://ethantech.cn/2015/12/19/1/"/>
     <id>http://ethantech.cn/2015/12/19/1/</id>
     <published>2015-12-19T09:17:58.000Z</published>
-    <updated>2015-12-19T09:28:35.655Z</updated>
+    <updated>2015-12-19T09:29:21.624Z</updated>
     <content type="html"><![CDATA[<p>#一、安装在文件中打开终端的右键菜单</p>
 <pre><code>#apt-get install nautilus-open-terminal
 </code></pre><p>注销一下就可以用了</p>
